@@ -1,0 +1,19 @@
+{
+  "name": "codewar_backend",
+  "version": "1.0.0",
+  "description": "backend for codewar-project-2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zankhana, krupali, shreyas",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "googleapis": "^94.0.0",
+    "html-pdf-node": "^1.0.8",
+    "nodemailer": "^6.7.2",
+    "request": "^2.88.2"
+  }
+}
